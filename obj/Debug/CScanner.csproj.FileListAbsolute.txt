@@ -1,0 +1,9 @@
+E:\DEVELOPER\C#\CScanner\CScanner\CScanner\bin\Debug\CScanner.exe.config
+E:\DEVELOPER\C#\CScanner\CScanner\CScanner\bin\Debug\CScanner.exe
+E:\DEVELOPER\C#\CScanner\CScanner\CScanner\bin\Debug\CScanner.pdb
+E:\DEVELOPER\C#\CScanner\CScanner\CScanner\obj\Debug\CScanner.csprojResolveAssemblyReference.cache
+E:\DEVELOPER\C#\CScanner\CScanner\CScanner\obj\Debug\CScanner.Form1.resources
+E:\DEVELOPER\C#\CScanner\CScanner\CScanner\obj\Debug\CScanner.Properties.Resources.resources
+E:\DEVELOPER\C#\CScanner\CScanner\CScanner\obj\Debug\CScanner.csproj.GenerateResource.Cache
+E:\DEVELOPER\C#\CScanner\CScanner\CScanner\obj\Debug\CScanner.exe
+E:\DEVELOPER\C#\CScanner\CScanner\CScanner\obj\Debug\CScanner.pdb
